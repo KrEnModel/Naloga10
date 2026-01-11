@@ -16,4 +16,10 @@ Primeri uporabe vključujejo priporočilne sisteme za filme in glasbo, glasovne 
 ter pametne naprave. Uporaba umetne inteligence omogoča bolj prilagojene storitve in 
 hitrejšo obdelavo podatkov.
 
+## Vloga B – Organizacija projekta
+V okviru vloge B je bila izvedena organizacija projekta na GitHubu. 
+Ustvarjen je bil GitHub Actions workflow, ki omogoča samodejno preverjanje 
+stanja projekta in prikaz značke. Poleg tega je bil vzpostavljen Issue board 
+z razdelkoma Open in Closed, kar omogoča pregled nad opravili in njihovim stanjem.
+
 
